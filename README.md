@@ -1,5 +1,7 @@
 ﻿# Habilite/Desabilite League of Legends Chat
-### testado no servidor BR
+## Testado no servidor BR
 
-## Download EXE File [LeagueOfLegendsCHATOFF.exe](https://github.com/gabriellhuver/disable-lol-chat/raw/master/LeagueOfLegendsCHATOFF/bin/Debug/LeagueOfLegendsCHATOFF.exe).
+ * Programa bloqueia o ip do chat de league of legends (SA server) 
+ 
+## Download exe x64 [LeagueOfLegendsCHATOFF.exe](https://github.com/gabriellhuver/disable-lol-chat/raw/master/LeagueOfLegendsCHATOFF/bin/Debug/LeagueOfLegendsCHATOFF.exe).
 Download .exe 
