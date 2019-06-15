@@ -37,31 +37,7 @@ namespace LeagueOfLegendsCHATOFF
            
         }
 
-    public static PingReply PingHost(string nameOrAddress)
-    {
-        bool pingable = false;
-        Ping pinger = null;
-            PingReply reply = null;
-        try
-        {
-            pinger = new Ping();
-                reply = pinger.Send(nameOrAddress);
-            pingable = reply.Status == IPStatus.Success;
-        }
-        catch (PingException)
-        {
-            // Discard PingExceptions and return false;
-        }
-        finally
-        {
-            if (pinger != null)
-            {
-                pinger.Dispose();
-            }
-        }
-
-        return reply;
-    }
+   
 
         private void button2_Click(object sender, EventArgs e)
         {
