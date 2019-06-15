@@ -1,0 +1,10 @@
+C:\Users\gab00\source\repos\LeagueOfLegendsCHATOFF\LeagueOfLegendsCHATOFF\obj\Debug\LeagueOfLegendsCHATOFF.csprojAssemblyReference.cache
+C:\Users\gab00\source\repos\LeagueOfLegendsCHATOFF\LeagueOfLegendsCHATOFF\obj\Debug\LeagueOfLegendsCHATOFF.Form1.resources
+C:\Users\gab00\source\repos\LeagueOfLegendsCHATOFF\LeagueOfLegendsCHATOFF\obj\Debug\LeagueOfLegendsCHATOFF.Properties.Resources.resources
+C:\Users\gab00\source\repos\LeagueOfLegendsCHATOFF\LeagueOfLegendsCHATOFF\obj\Debug\LeagueOfLegendsCHATOFF.csproj.GenerateResource.cache
+C:\Users\gab00\source\repos\LeagueOfLegendsCHATOFF\LeagueOfLegendsCHATOFF\obj\Debug\LeagueOfLegendsCHATOFF.csproj.CoreCompileInputs.cache
+C:\Users\gab00\source\repos\LeagueOfLegendsCHATOFF\LeagueOfLegendsCHATOFF\bin\Debug\LeagueOfLegendsCHATOFF.exe.config
+C:\Users\gab00\source\repos\LeagueOfLegendsCHATOFF\LeagueOfLegendsCHATOFF\bin\Debug\LeagueOfLegendsCHATOFF.exe
+C:\Users\gab00\source\repos\LeagueOfLegendsCHATOFF\LeagueOfLegendsCHATOFF\bin\Debug\LeagueOfLegendsCHATOFF.pdb
+C:\Users\gab00\source\repos\LeagueOfLegendsCHATOFF\LeagueOfLegendsCHATOFF\obj\Debug\LeagueOfLegendsCHATOFF.exe
+C:\Users\gab00\source\repos\LeagueOfLegendsCHATOFF\LeagueOfLegendsCHATOFF\obj\Debug\LeagueOfLegendsCHATOFF.pdb
