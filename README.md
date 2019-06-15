@@ -7,11 +7,11 @@
   * Execute LeagueOfLegendsCHATOFF.exe
   * Clique em Enable para Habilitar o chat, e disable para desabilitar
   * Reabra o client do League of legends (Só funciona quando restartar o League of legends client)
-
+## Download
 * Download exe x64 [LeagueOfLegendsCHATOFF.exe](https://github.com/gabriellhuver/disable-lol-chat/raw/master/LeagueOfLegendsCHATOFF/bin/Debug/LeagueOfLegendsCHATOFF.exe).
 Download .exe 
 
 
-
-* créditos: [Gabriell Huver](https://github.com/gabriellhuve) 😊
+## Créditos:
+* [Gabriell Huver](https://github.com/gabriellhuve) ✌
  
