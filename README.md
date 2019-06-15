@@ -13,5 +13,5 @@ Download .exe
 
 
 ## Créditos:
-* [Gabriell Huver](https://github.com/gabriellhuve) ✌
+* [Gabriell Huver](https://github.com/gabriellhuver) ✌
  
